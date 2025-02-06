@@ -1,6 +1,6 @@
-@inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={Conference},
-  year={20XX}
+@article{xu2024collage,
+  title={Collage prompting: Budget-friendly visual recognition with gpt-4v},
+  author={Xu, Siyu and Wang, Yunke and Liu, Daochang and Xu, Chang},
+  journal={arXiv preprint arXiv:2403.11468},
+  year={2024}
 }
